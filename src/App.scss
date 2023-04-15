@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #b14cb0;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -77,7 +77,7 @@ header .nav {
 }
 
 .skills-tile {
-	background-color: transparentize(#F8F5F4, 0.95);
+	background-color: transparentize(#c0f209, 0.95);
 	padding: 10px 10px 5px 10px;
 	width: 100px;
 	margin: 5px 0 5px 0;
@@ -276,7 +276,7 @@ header h1 {
 }
 
 .modal-inside .modal-content {
-	background: white;
+	background: rgb(202, 22, 22);
 }
 
 .bars {
@@ -355,6 +355,7 @@ header h1 {
 #portfolio {
 	background: #efe1bd;
 	padding-bottom: 5%;
+	background-image: url('/ocean-pic.jpg');
 }
 
 .portfolio-item {

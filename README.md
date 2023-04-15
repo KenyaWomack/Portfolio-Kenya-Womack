@@ -1,6 +1,6 @@
 # Modify this portfolio
 
-[My Site]{https://brilliant-genie-9d7bbb.netlify.app/}
+[My Site](https://brilliant-genie-9d7bbb.netlify.app/)
 
 Number and name of feature:Deploy and Extend Your Portfolio ________________________________
 
